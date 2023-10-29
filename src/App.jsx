@@ -1,21 +1,13 @@
-import './App.scss';
-import { Product } from './components/Product/Product';
+import "./App.scss";
+
+import { GoodList } from "./components/GoodList/GoodList";
+
+
 
 const App = () => (
-  <div>
-    <h1>My Shop</h1>
-    <Product
-      title="Pepperoni Pizza"
-      price={100}
-    />
-    <Product
-      title="Chocolate Cake"
-      price={30}
-    />
-    <Product
-      title="Water"
-      price={0}
-    />
+  <div className="App">
+    <h1>Goods list</h1>
+    <GoodList />
   </div>
 );
 
