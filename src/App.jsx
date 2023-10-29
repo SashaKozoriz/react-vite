@@ -1,6 +1,6 @@
 import "./App.scss";
 import goods from "./goods.json";
-import { GoodList } from "./components/GoodList/GoodList";
+import { GoodList } from "./components/GoodList";
 
 
 

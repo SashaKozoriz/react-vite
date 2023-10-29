@@ -1,4 +1,4 @@
-import { GoodCard } from "../GoodCard/GoodCard";
+import { GoodCard } from "../GoodCard";
 export const GoodList = ({ goods }) => (
   <div className="GoodList">
     {goods.map((good) => (
