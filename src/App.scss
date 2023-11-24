@@ -1,2 +1,7 @@
 @import "./components/GoodCard/GoodCard.scss";
 @import "./components/GoodList/GoodList.scss";
+@import "./components/Header/Header.scss";
+
+.active {
+  background-color: darkgray;
+}

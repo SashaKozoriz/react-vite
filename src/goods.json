@@ -1,12 +1,12 @@
 [
-  {"id": 1, "name": "Apple", "color": "red"},
-  {"id": 2, "name": "Orange", "color": "orange"},
-  {"id": 3, "name": "Banana", "color": "yellow"},
-  {"id": 4, "name": "Grape", "color": "purple"},
-  {"id": 5, "name": "Strawberry", "color": "red"},
-  {"id": 6, "name": "Mango", "color": "yellow"},
-  {"id": 7, "name": "Watermelon", "color": "red"},
-  {"id": 8, "name": "Pineapple", "color": "yellow"},
-  {"id": 9, "name": "Coconut", "color": "yellow"},
-  {"id": 10, "name": "Peach", "color": "orange"}
+  {"id": 10, "name": "Peach", "color": "#FFA500"},
+  {"id": 2, "name": "Orange", "color": "#FFA500"},
+  {"id": 1, "name": "Apple", "color": "#FF0000"},
+  {"id": 4, "name": "Grape", "color": "#800080"},
+  {"id": 6, "name": "Mango", "color": "#FFFF00"},
+  {"id": 7, "name": "Watermelon", "color": "#FF0000"},
+  {"id": 8, "name": "Pineapple", "color": "#FFFF00"},
+  {"id": 3, "name": "Banana", "color": "#FFFF00"},
+  {"id": 9, "name": "Coconut", "color": "#FFFF00"},
+  {"id": 5, "name": "Strawberry", "color": "#FF0000"}
 ]
