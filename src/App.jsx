@@ -32,7 +32,7 @@ function getPreparedGoods(goods, { sortField, query }) {
   }
 
   return preparedGoods;
-}
+};
 
 const App = () => {
   const [sortField, setSortField] = useState('');
